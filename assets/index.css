@@ -1,0 +1,19 @@
+h1{
+    font-size: 80px;
+    background-color: aqua;
+    width: 180px;
+    height: 80px;
+    
+}
+nav{
+    position:fixed;
+    left:0;
+    top:0;
+}
+
+div{
+    background-color:crimson;
+    width:100px;
+    height:100px;
+    font-size:  20px;
+}
